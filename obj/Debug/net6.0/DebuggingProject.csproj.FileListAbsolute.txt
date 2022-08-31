@@ -1,0 +1,15 @@
+D:\Programs\Lesson_05\DebuggingProject\bin\Debug\net6.0\DebuggingProject.exe
+D:\Programs\Lesson_05\DebuggingProject\bin\Debug\net6.0\DebuggingProject.deps.json
+D:\Programs\Lesson_05\DebuggingProject\bin\Debug\net6.0\DebuggingProject.runtimeconfig.json
+D:\Programs\Lesson_05\DebuggingProject\bin\Debug\net6.0\DebuggingProject.dll
+D:\Programs\Lesson_05\DebuggingProject\bin\Debug\net6.0\DebuggingProject.pdb
+D:\Programs\Lesson_05\DebuggingProject\obj\Debug\net6.0\DebuggingProject.csproj.AssemblyReference.cache
+D:\Programs\Lesson_05\DebuggingProject\obj\Debug\net6.0\DebuggingProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Lesson_05\DebuggingProject\obj\Debug\net6.0\DebuggingProject.AssemblyInfoInputs.cache
+D:\Programs\Lesson_05\DebuggingProject\obj\Debug\net6.0\DebuggingProject.AssemblyInfo.cs
+D:\Programs\Lesson_05\DebuggingProject\obj\Debug\net6.0\DebuggingProject.csproj.CoreCompileInputs.cache
+D:\Programs\Lesson_05\DebuggingProject\obj\Debug\net6.0\DebuggingProject.dll
+D:\Programs\Lesson_05\DebuggingProject\obj\Debug\net6.0\refint\DebuggingProject.dll
+D:\Programs\Lesson_05\DebuggingProject\obj\Debug\net6.0\DebuggingProject.pdb
+D:\Programs\Lesson_05\DebuggingProject\obj\Debug\net6.0\DebuggingProject.genruntimeconfig.cache
+D:\Programs\Lesson_05\DebuggingProject\obj\Debug\net6.0\ref\DebuggingProject.dll
